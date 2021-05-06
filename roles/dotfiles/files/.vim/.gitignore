@@ -1,3 +1,4 @@
-plugin/
+.assume-iterm
+.netrwhist
 !.gitignore
 
